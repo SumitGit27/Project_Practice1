@@ -11,6 +11,8 @@ public class Ex2 {
 		GerericUtilities1 gu1 = new GerericUtilities1();
 		
 		WebDriver driver = gu1.startUp("ch", "https://www.facebook.com/");
+		
+		System.out.println("program start");
 	   
 	}
 
