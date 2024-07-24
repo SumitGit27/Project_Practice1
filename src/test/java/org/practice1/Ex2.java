@@ -10,7 +10,7 @@ public class Ex2 {
 		
 		GerericUtilities1 gu1 = new GerericUtilities1();
 		
-		WebDriver driver = gu1.startUp("edge", "https://www.facebook.com/");
+		WebDriver driver = gu1.startUp("ch", "https://www.facebook.com/");
 	   
 	}
 
